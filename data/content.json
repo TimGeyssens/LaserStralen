@@ -1,0 +1,156 @@
+{
+  "hero": {
+    "title_pre": "Oppervlaktereiniging met",
+    "title_highlight": "Laser Stralen",
+    "subtitle": "De toekomst van industriële reiniging. Zoals zandstralen, maar dan met de kracht en precisie van lasertechnologie — zonder straalmiddel, zonder afval.",
+    "cta_primary": "Vraag een offerte aan",
+    "cta_secondary": "Meer informatie"
+  },
+  "wat": {
+    "title": "Wat is Laser Stralen?",
+    "heading": "Het moderne alternatief voor zandstralen",
+    "text_1": "Laser stralen is een innovatieve reinigingstechniek waarbij een krachtige laserstraal wordt gebruikt om ongewenste lagen van oppervlakken te verwijderen. Denk aan roest, verf, oxide, olie en andere verontreinigingen.",
+    "text_2": "In tegenstelling tot zandstralen komt er géén straalmiddel aan te pas. De laser verdampt alleen de ongewenste laag, zonder het onderliggende materiaal te beschadigen. Het resultaat: een schoon oppervlak, geen stof, en geen afval."
+  },
+  "voordelen": {
+    "title": "Waarom Laser Stralen?",
+    "subtitle": "Ontdek de voordelen ten opzichte van traditionele methoden zoals zandstralen en chemisch reinigen.",
+    "items": [
+      {
+        "icon": "🎯",
+        "title": "Uiterste precisie",
+        "text": "De laserstraal kan nauwkeurig worden gericht, waardoor alleen de verontreiniging wordt verwijderd zonder het basismateriaal aan te tasten."
+      },
+      {
+        "icon": "🌱",
+        "title": "Milieuvriendelijk",
+        "text": "Geen zand, geen chemicaliën, geen secundair afval. Laser stralen is een schoon en duurzaam proces."
+      },
+      {
+        "icon": "⚙️",
+        "title": "Geen slijtage",
+        "text": "Omdat er geen fysiek contact is met het oppervlak, slijt het materiaal niet. Ideaal voor delicate of waardevolle onderdelen."
+      },
+      {
+        "icon": "⚡",
+        "title": "Snel & efficiënt",
+        "text": "Grote oppervlakken worden snel gereinigd. Minimale voorbereiding en nabehandeling nodig."
+      },
+      {
+        "icon": "🔇",
+        "title": "Laag geluidsniveau",
+        "text": "In vergelijking met zandstralen is laser stralen aanzienlijk stiller. Minder geluidsoverlast voor de omgeving."
+      },
+      {
+        "icon": "🔧",
+        "title": "Weinig onderhoud",
+        "text": "Geen verbruiksartikelen en minimale slijtdelen. Lagere operationele kosten op de lange termijn."
+      }
+    ]
+  },
+  "vergelijk": {
+    "title": "Laser Stralen vs. Zandstralen",
+    "subtitle": "Zie hoe laser stralen zich verhoudt tot de traditionele zandstraal-methode.",
+    "zandstralen": [
+      "Gebruikt abrasief straalmiddel (zand, grit)",
+      "Produceert veel stof en afval",
+      "Kan het onderliggende materiaal beschadigen",
+      "Hoog geluidsniveau",
+      "Omvangrijke beschermingsmiddelen vereist",
+      "Hogere doorlopende kosten (straalmiddel)"
+    ],
+    "laserstralen": [
+      "Contactloos — geen straalmiddel nodig",
+      "Vrijwel geen stof of afval",
+      "Beschermt het basismateriaal",
+      "Stil en comfortabel werken",
+      "Minimale persoonlijke bescherming nodig",
+      "Lagere kosten op lange termijn"
+    ]
+  },
+  "toepassingen": {
+    "title": "Toepassingen",
+    "subtitle": "Laser stralen is breed inzetbaar in diverse sectoren.",
+    "items": [
+      {
+        "icon": "🏗️",
+        "title": "Constructie & staal",
+        "text": "Roest en coatingverwijdering van staalconstructies, bruggen en leidingwerk."
+      },
+      {
+        "icon": "🏛️",
+        "title": "Monumentenzorg",
+        "text": "Voorzichtige reiniging van historische gevels, beelden en monumenten zonder beschadiging."
+      },
+      {
+        "icon": "🚗",
+        "title": "Automotive",
+        "text": "Verwijdering van lak, roest en coatings bij restauratie of voorbereiding op lassen."
+      },
+      {
+        "icon": "🚢",
+        "title": "Scheepvaart",
+        "text": "Ontroesten en coating verwijderen van rompen, dekken en scheepsonderdelen."
+      },
+      {
+        "icon": "🏭",
+        "title": "Industrie",
+        "text": "Reiniging van mallen, machines, productieapparatuur en leidingsystemen."
+      },
+      {
+        "icon": "🔬",
+        "title": "Precisiewerk",
+        "text": "Microreiniging van elektronica, medische instrumenten en optische componenten."
+      }
+    ]
+  },
+  "werkwijze": {
+    "title": "Onze werkwijze",
+    "subtitle": "Van eerste contact tot een schoon resultaat — zo werken wij.",
+    "stappen": [
+      {
+        "title": "Contact",
+        "text": "Neem contact op en vertel ons over uw project en wensen."
+      },
+      {
+        "title": "Inspectie",
+        "text": "Wij beoordelen het oppervlak en bepalen de beste aanpak."
+      },
+      {
+        "title": "Uitvoering",
+        "text": "Onze specialisten voeren het laserstralen vakkundig uit op locatie."
+      },
+      {
+        "title": "Oplevering",
+        "text": "Controle van het resultaat en oplevering aan u."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Klaar om over te stappen op laser?",
+    "subtitle": "Vraag vandaag nog een vrijblijvende offerte aan en ontdek wat laser stralen voor uw project kan betekenen.",
+    "button": "Neem contact op"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Heeft u vragen of wilt u een offerte aanvragen? Vul het formulier in of neem direct contact met ons op.",
+    "telefoon": "+31 (0)6 12 34 56 78",
+    "email": "info@laserstralen.nl",
+    "locatie": "Wij werken door heel Nederland en België",
+    "bereikbaar": "Ma – Vr: 08:00 – 17:00",
+    "diensten": [
+      "Roestverwijdering",
+      "Verfverwijdering",
+      "Coating verwijderen",
+      "Monumentreiniging",
+      "Industriële reiniging",
+      "Anders"
+    ],
+    "form_button": "Verstuur bericht"
+  },
+  "meta": {
+    "site_title": "Laser Stralen — Precisie Reiniging met Lasertechnologie",
+    "meta_description": "Laser stralen: de moderne, milieuvriendelijke manier van oppervlaktereiniging. Zoals zandstralen, maar dan met laser. Snel, schoon en zonder straalmiddel.",
+    "footer": "2026 LaserStralen. Alle rechten voorbehouden."
+  }
+}
